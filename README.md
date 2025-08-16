@@ -160,16 +160,6 @@ I thrive at the intersection of architecture depth, developer experience, and de
 
 ---
 
-### 📈 (Optional) GitHub / Activity Widgets
-
-<!-- Remove if you prefer a cleaner profile -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinAThomas&show_icons=true&theme=default" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAThomas&layout=compact&hide=html&langs_count=8" alt="Top Languages" height="160" />
-</p>
-
----
-
 ### ✅ Quick Ways to Extend Later
 
 - Add a /projects directory and link significant repos
