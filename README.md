@@ -160,15 +160,6 @@ I thrive at the intersection of architecture depth, developer experience, and de
 
 ---
 
-### ✅ Quick Ways to Extend Later
-
-- Add a /projects directory and link significant repos
-- Publish architecture diagrams (plantUML / Mermaid) for platform components
-- Add a blog link (GitHub Pages + Markdown → static site)
-- Showcase a “Tech Deep Dives” section (e.g., Identity Federation Patterns, Event-Driven Tagging Engine)
-
----
-
 ### 🤝 References
 
 Available on request.
